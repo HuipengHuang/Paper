@@ -1,0 +1,1 @@
+three benchmarks of image classification, including CIFAR-100 (Krizhevsky et al., 2009), ImageNet (Deng et al., 2009), and ImageNet-V2.
